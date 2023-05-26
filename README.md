@@ -1,4 +1,4 @@
-# We the people of "five" did a small mini-project given by our faculty.
+# We the people of "five" from 6CAI-02 did a small mini-project given by our faculty.
 Members Contributed:
   1. Shyamalan K ( 20201CAI0148 )
   2. Sushruth S ( 20201CAI0216 )
