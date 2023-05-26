@@ -4,4 +4,4 @@ Members Contributed:
   2. Sushruth S ( 20201CAI0216 )
   3. Pratyush P ( 20201CAI082 )
   4. Akash R ( 20201CAI0101 )
-  5. Dhrupath ( 20201CAI0136 )
+  5. Dhrupath Rajeev( 20201CAI0136 )
