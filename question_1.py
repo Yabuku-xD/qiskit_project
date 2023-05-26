@@ -28,7 +28,8 @@ string = '01101'
 oracle = build_oracle(string)
 print(oracle)
 
-                  
+Output:
+
 q_0: ──────■──────
      ┌───┐ │ ┌───┐
 q_1: ┤ X ├─┼─┤ X ├
