@@ -27,3 +27,15 @@ def build_oracle(string):
 string = '01101'
 oracle = build_oracle(string)
 print(oracle)
+
+                  
+q_0: ──────■──────
+     ┌───┐ │ ┌───┐
+q_1: ┤ X ├─┼─┤ X ├
+     ├───┤ │ ├───┤
+q_2: ┤ X ├─┼─┤ X ├
+     └───┘ │ └───┘
+q_3: ──────┼──────
+     ┌───┐ │ ┌───┐
+q_4: ┤ X ├─■─┤ X ├
+     └───┘   └───┘
