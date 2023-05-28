@@ -1,5 +1,5 @@
 #Question 1
-from qiskit import QuantumCircuit, QuantumRegister
+from qiskit import QuantumCircuit
 
 def build_oracle(string):
     # Determine the number of qubits needed based on the string length
@@ -20,8 +20,7 @@ def build_oracle(string):
     for i in range(num_qubits):
         if string[i] == '1':
             qc.x(i)
-    
-    return qc
+        return qc
 
 # Test the oracle with a sample string
 string = '01101'
