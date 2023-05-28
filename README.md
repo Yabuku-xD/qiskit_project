@@ -19,6 +19,6 @@ grow with the size of the problem.
 Members Contributed:
   1. Shyamalan K ( 20201CAI0148 )
   2. Sushruth S ( 20201CAI0216 )
-  3. Pratyush P ( 20201CAI082 )
+  3. Prathyush S Panicker ( 20201CAI0079 )
   4. Akash R ( 20201CAI0101 )
   5. Dhrupath Rajeev( 20201CAI0136 )
