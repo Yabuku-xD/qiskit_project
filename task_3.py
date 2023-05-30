@@ -1,5 +1,5 @@
 #Question 3
-from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister, Aer, execute
+from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister
 
 def build_problem_oracle(pattern):
     # Determine the number of qubits needed based on the pattern length
